@@ -1,0 +1,23 @@
+
+New Record :  Wed May 04 22:38:05 2022
+
+Your Name : Saurabh
+Your Score : 1
+You lost : 1
+Match draw : 1
+You Played Stone , Paper , Sissor
+
+New Record :  Sat May 14 11:02:51 2022
+
+Your Name : jhgf
+Your Score : 1
+You lost : 1
+Match draw : 1
+You Played Stone , Paper , Sissor
+
+New Record :  Sat Sep 17 09:33:30 2022
+
+Your Name : Saurabh
+Your Score : 0
+You lost : 1
+Match draw : 2
